@@ -15,7 +15,7 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 - 👯 I'm looking to collaborate on **Open Source Projects** and **AI/ML Research**
 - 💬 Ask me about **Full Stack Development**, **AWS**, **Competitive Programming**, or **Machine Learning**
 - 📫 How to reach me: **rohitjazz199955@gmail.com**
-- ⚡ Fun fact: I ranked **Top 0.3%** globally on Codeforces (1898 rating) 🏆
+- ⚡ Highest Rank: **1898** at Codeforces
 
 ## 🛠️ Tech Stack
 
