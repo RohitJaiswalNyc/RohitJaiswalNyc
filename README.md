@@ -54,7 +54,7 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 | 🎯 Competitive Programming | 💼 Professional Impact | 🎓 Academic Excellence |
 |---------------------------|------------------------|------------------------|
-| **Top 0.3%** on Codeforces (1898) | Improved efficiency by **20%** | **MS in Computer Science** |
+| **1898** on Codeforces | Improved efficiency by **20%** | **MS in Computer Science** |
 | **3⭐** at CodeChef | Reduced search time from **O(n²) to O(n)** | Specialized in **AI & ML** |
 | **97th/31K** participants | Cut deployment bugs by **30%** | Research in **Theorem Proving** |
 
