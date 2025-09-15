@@ -66,10 +66,11 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 ### 🐦 [Robotics and Motion Planning](https://github.com/RohitJaiswalNyc/Robotics-and-Motion-Planning-Project)
 > **Poppy Ergo Jr. stacking blocks in certain configurations**
 <div align="center">
-<img width="480" height="auto" alt="Screenshot 2025-05-01 220923" src="https://github.com/user-attachments/assets/0636b95e-42e1-483b-ac9b-49690ab24d55" />
-<img width="480" height="auto" alt="Screenshot 2025-05-01 220946" src="https://github.com/user-attachments/assets/1dacecc6-9425-4b0b-8fca-74aed53ea651" />
+  <img width="480" height="auto" alt="Screenshot 2025-05-01 220946" src="https://github.com/user-attachments/assets/1dacecc6-9425-4b0b-8fca-74aed53ea651" />
+  <img width="480" height="auto" alt="Screenshot 2025-05-01 221032" src="https://github.com/user-attachments/assets/16ea03e9-c1c0-451f-99e4-057c0364f8ab" />
 <img width="480" height="auto" alt="Screenshot 2025-05-01 221108" src="https://github.com/user-attachments/assets/f0cb6dbe-2cec-4fdb-bb85-749c3a38bb56" />
-<img width="480" height="auto" alt="Screenshot 2025-05-01 221032" src="https://github.com/user-attachments/assets/16ea03e9-c1c0-451f-99e4-057c0364f8ab" />
+<img width="480" height="auto" alt="Screenshot 2025-05-01 220923" src="https://github.com/user-attachments/assets/0636b95e-42e1-483b-ac9b-49690ab24d55" />
+
 </div>
 
 
