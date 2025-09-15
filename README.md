@@ -68,6 +68,5 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rohitjaiswal&color=brightgreen&style=for-the-badge)
 
-⭐ From [RohitJaiswal](https://github.com/rohitjaiswal)
 
 </div>
