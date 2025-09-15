@@ -22,6 +22,12 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 ### 🤖 [Theorem Prover](https://github.com/RohitJaiswalNyc/datp_using_labels)
 > **AI-Powered Mathematical Proof Assistant**
+> <img width="976" height="373" alt="Screenshot 2024-05-06 053629" src="https://github.com/user-attachments/assets/04737025-d847-4a89-910d-639d47532d7c" />
+<img width="984" height="345" alt="Screenshot 2024-05-06 065327" src="https://github.com/user-attachments/assets/aee920bc-e6e2-44ec-be4f-2e89ed8fd418" />
+<img width="977" height="358" alt="Screenshot 2024-05-03 171842" src="https://github.com/user-attachments/assets/793d1690-1c29-4b34-9365-82d3e7987219" />
+
+
+
 
 ### 🌐 [Space Finder](https://github.com/RohitJaiswalNyc/Spaces_finder)
 > **Cloud-Native Web Application**
@@ -31,6 +37,10 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 ### 🐦 [Web Application for Wang Labs](https://github.com/RohitJaiswalNyc/WangLabs)
 > **Web Application for Wang Labs using React**
+> <img width="1898" height="902" alt="Screenshot 2025-09-14 205954" src="https://github.com/user-attachments/assets/04cb87cf-cd23-4f03-a369-e0421d5b4104" />
+<img width="1892" height="896" alt="Screenshot 2025-09-14 205940" src="https://github.com/user-attachments/assets/34273fe7-23d4-49ee-9adf-12498675da05" />
+<img width="1895" height="902" alt="Screenshot 2025-09-14 205918" src="https://github.com/user-attachments/assets/7ee37de4-183b-46da-834d-964058c15ad0" />
+
 
 ### 🐦 [Nachos](https://github.com/RohitJaiswalNyc/Nachos)
 > **Operating System**
@@ -40,6 +50,14 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 ### 🐦 [Robotics and Motion Planning](https://github.com/RohitJaiswalNyc/Robotics-and-Motion-Planning-Project)
 > **Poppy Ergo Jr. stacking blocks in certain configurations**
+> <img width="1281" height="968" alt="Screenshot 2025-05-01 220923" src="https://github.com/user-attachments/assets/0636b95e-42e1-483b-ac9b-49690ab24d55" />
+<img width="1278" height="964" alt="Screenshot 2025-05-01 220946" src="https://github.com/user-attachments/assets/1dacecc6-9425-4b0b-8fca-74aed53ea651" />
+<img width="1290" height="905" alt="Screenshot 2025-05-01 221108" src="https://github.com/user-attachments/assets/f0cb6dbe-2cec-4fdb-bb85-749c3a38bb56" />
+<img width="1277" height="955" alt="Screenshot 2025-05-01 221032" src="https://github.com/user-attachments/assets/16ea03e9-c1c0-451f-99e4-057c0364f8ab" />
+
+
+
+
 
 ## 📊 GitHub Statistics
 
