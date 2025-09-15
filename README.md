@@ -35,7 +35,6 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 ### 🐦 [X Feed Customizer](https://github.com/RohitJaiswalNyc/x-feed-customizer)
 > **AI-Powered Chrome Extension**
 > <img width="505" height="1191" alt="image" src="https://github.com/user-attachments/assets/6e5bd5c2-6e09-4bea-b6e6-7775fe99cbab" />
-<img width="667" height="870" alt="image" src="https://github.com/user-attachments/assets/54106b7a-be55-4653-a482-f2335d559e4d" />
 <img width="667" height="870" alt="image" src="https://github.com/user-attachments/assets/fb4296cb-0773-4c85-9c95-5cfb862bfceb" />
 
 
