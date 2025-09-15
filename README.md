@@ -34,6 +34,8 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 ### 🐦 [X Feed Customizer](https://github.com/RohitJaiswalNyc/x-feed-customizer)
 > **AI-Powered Chrome Extension**
+> <img width="505" height="1191" alt="image" src="https://github.com/user-attachments/assets/6e5bd5c2-6e09-4bea-b6e6-7775fe99cbab" />
+
 
 ### 🐦 [Web Application for Wang Labs](https://github.com/RohitJaiswalNyc/WangLabs)
 > **Web Application for Wang Labs using React**
