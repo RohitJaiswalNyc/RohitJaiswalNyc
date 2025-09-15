@@ -81,11 +81,11 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 <div align="center">
 
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitjaiswal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitJaiswalNyc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitjaiswal&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitJaiswalNyc&theme=tokyonight&hide_border=true&layout=compact&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohitjaiswal&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RohitJaiswalNyc&theme=tokyonight&hide_border=true)
 
 </div>
 
