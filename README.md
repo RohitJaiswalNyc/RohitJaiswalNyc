@@ -22,11 +22,13 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 ### 🤖 [Theorem Prover](https://github.com/RohitJaiswalNyc/datp_using_labels)
 > **AI-Powered Mathematical Proof Assistant**
-> <img width="976" height="373" alt="Screenshot 2024-05-06 053629" src="https://github.com/user-attachments/assets/04737025-d847-4a89-910d-639d47532d7c" />
-<img width="984" height="345" alt="Screenshot 2024-05-06 065327" src="https://github.com/user-attachments/assets/aee920bc-e6e2-44ec-be4f-2e89ed8fd418" />
-<img width="977" height="358" alt="Screenshot 2024-05-03 171842" src="https://github.com/user-attachments/assets/793d1690-1c29-4b34-9365-82d3e7987219" />
+<div align="center">
+<img width="480" height="auto" alt="Screenshot 2024-05-06 053629" src="https://github.com/user-attachments/assets/04737025-d847-4a89-910d-639d47532d7c" />
+<img width="480" height="auto" alt="Screenshot 2024-05-06 065327" src="https://github.com/user-attachments/assets/aee920bc-e6e2-44ec-be4f-2e89ed8fd418" />
+<img width="480" height="auto" alt="Screenshot 2024-05-03 171842" src="https://github.com/user-attachments/assets/793d1690-1c29-4b34-9365-82d3e7987219" />
+</div>
 
-
+<br>
 
 
 ### 🌐 [Space Finder](https://github.com/RohitJaiswalNyc/Spaces_finder)
@@ -34,8 +36,12 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 ### 🐦 [X Feed Customizer](https://github.com/RohitJaiswalNyc/x-feed-customizer)
 > **AI-Powered Chrome Extension**
-> <img width="505" height="1191" alt="image" src="https://github.com/user-attachments/assets/6e5bd5c2-6e09-4bea-b6e6-7775fe99cbab" />
-<img width="667" height="870" alt="image" src="https://github.com/user-attachments/assets/fb4296cb-0773-4c85-9c95-5cfb862bfceb" />
+<div align="center">
+<img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/6e5bd5c2-6e09-4bea-b6e6-7775fe99cbab" />
+<img width="240" height="auto" alt="image" src="https://github.com/user-attachments/assets/fb4296cb-0773-4c85-9c95-5cfb862bfceb" />
+</div>
+
+<br>
 
 
 
