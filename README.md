@@ -20,23 +20,26 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 ## 🔥 Featured Projects
 
-### 🤖 [Theorem Prover](https://github.com/rohitjaiswal/theorem-prover)
+### 🤖 [Theorem Prover](https://github.com/RohitJaiswalNyc/datp_using_labels)
 > **AI-Powered Mathematical Proof Assistant**
-- Built a transformer network trained on **40K+ proofs** for automated premise selection
-- Achieved **50% test accuracy** (5x improvement over baseline)
-- Technologies: `PyTorch` `NumPy` `Metamath`
 
-### 🌐 [Space Finder](https://github.com/rohitjaiswal/space-finder)
+### 🌐 [Space Finder](https://github.com/RohitJaiswalNyc/Spaces_finder)
 > **Cloud-Native Web Application**
-- Full-stack application with React frontend and AWS CDK backend
-- Automated deployment with comprehensive testing pipelines
-- Technologies: `React` `AWS CDK` `DynamoDB` `API Gateway`
 
-### 🐦 [X Feed Customizer](https://github.com/rohitjaiswal/x-feed-customizer)
+### 🐦 [X Feed Customizer](https://github.com/RohitJaiswalNyc/x-feed-customizer)
 > **AI-Powered Chrome Extension**
-- LLM-based content classification and filtering for social media
-- Custom UI with topic indicators and filtering preferences
-- Technologies: `JavaScript` `OpenAI API` `Chrome Extensions`
+
+### 🐦 [Web Application for Wang Labs](https://github.com/RohitJaiswalNyc/WangLabs)
+> **Web Application for Wang Labs using React**
+
+### 🐦 [Nachos](https://github.com/RohitJaiswalNyc/Nachos)
+> **Operating System**
+
+### 🐦 [Meta Coding Puzzles](https://github.com/RohitJaiswalNyc/Meta-Coding-Puzzles)
+> **DSA Problems by Meta**
+
+### 🐦 [Robotics and Motion Planning](https://github.com/RohitJaiswalNyc/Robotics-and-Motion-Planning-Project)
+> **Poppy Ergo Jr. stacking blocks in certain configurations**
 
 ## 📊 GitHub Statistics
 
