@@ -42,9 +42,13 @@ I'm a **Computer Science Graduate Student** at Syracuse University with a passio
 
 ### 🐦 [Web Application for Wang Labs](https://github.com/RohitJaiswalNyc/WangLabs)
 > **Web Application for Wang Labs using React**
-> <img width="1898" height="902" alt="Screenshot 2025-09-14 205954" src="https://github.com/user-attachments/assets/04cb87cf-cd23-4f03-a369-e0421d5b4104" />
-<img width="1892" height="896" alt="Screenshot 2025-09-14 205940" src="https://github.com/user-attachments/assets/34273fe7-23d4-49ee-9adf-12498675da05" />
-<img width="1895" height="902" alt="Screenshot 2025-09-14 205918" src="https://github.com/user-attachments/assets/7ee37de4-183b-46da-834d-964058c15ad0" />
+<div align="center">
+<img width="480" height="auto" alt="Screenshot 2025-09-14 205954" src="https://github.com/user-attachments/assets/04cb87cf-cd23-4f03-a369-e0421d5b4104" />
+<img width="480" height="auto" alt="Screenshot 2025-09-14 205940" src="https://github.com/user-attachments/assets/34273fe7-23d4-49ee-9adf-12498675da05" />
+<img width="480" height="auto" alt="Screenshot 2025-09-14 205918" src="https://github.com/user-attachments/assets/7ee37de4-183b-46da-834d-964058c15ad0" />
+</div>
+
+<br>
 
 
 ### 🐦 [Nachos](https://github.com/RohitJaiswalNyc/Nachos)
